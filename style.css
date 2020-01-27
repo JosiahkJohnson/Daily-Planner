@@ -1,0 +1,17 @@
+.time-column, .save-button-column, .input-column{
+    width: 100%;
+    height: 20%;
+    margin-top: 2%;
+}
+
+.time-column{
+    background: lightblue;
+}
+
+.input-column{
+    background: lightgreen;
+}
+
+.save-button-column{
+    background: darkblue;
+}
